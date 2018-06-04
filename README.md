@@ -4,9 +4,9 @@ This script pulls some 42 web projects and search for hardcoded 42 API secret ke
 * nodejs >= 8.9.1
 
 ### HOW TO
-```shell
-npm install
-node index.js
+```bash
+$> npm install
+$> node index.js
 ```
 
 ### API DOCUMENTATION
